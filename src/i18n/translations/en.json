@@ -1,0 +1,29 @@
+{
+  "auth": {
+    "dividerText": "OR",
+    "login": {
+      "title": "Login",
+      "forgotPassword": "Forgot Password",
+      "loginBtn": "LOG IN",
+      "loginBtnSubtext": "Don't have an account? ",
+      "loginBtnLink": "Signup here",
+      "facebookBtn": "Login with facebook"
+    },
+    "register": {
+      "title": "Register",
+      "signupBtn": "SIGN UP",
+      "signupBtnSubtext": "Already have an account? ",
+      "signupBtnLink": "Login here",
+      "facebookBtn": "Signup with facebook",
+      "privacyPolicySubtext": "By signing up, you are agree? ",
+      "privacyPolicyLink": "Privacy Policy"
+    },
+    "privacyPolicy": {
+      "acceptBtn": "ACCEPT"
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "resetPasswordBtn": "RESET PASSWORD"
+    }
+  }
+}
